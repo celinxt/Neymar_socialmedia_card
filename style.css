@@ -1,0 +1,28 @@
+body {
+  background-color: #000;
+  font-family: sans-serif;
+}
+.card {
+  background-image: url(assets/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 450px;
+  margin: auto;
+  padding: 20px;
+}
+#insta {
+  list-style-image: url(assets/Insta.png);
+}
+#tt {
+  list-style-image: url(assets/Twitter.png);
+}
+#yt {
+  list-style-image: url(assets/Youtube.png);
+}
+.link {
+  text-decoration: none;
+  color: #000;
+}
+.item {
+  padding-top: 7px;
+}
