@@ -2,7 +2,22 @@
 
 Um projeto simples de um cartão interativo com as principais redes sociais e o canal no youtube do Neymar Jr.
 <br>
-**Segue vídeo abaixo de como é o projeto por dentro:**
+**Segue os vídeos abaixo de como é o projeto por dentro:**
 <br>
 <br>
-<img src="assets/Animação.if" alt="Vídeo de apresentação do projeto">
+
+## Link para o Instagram:
+
+<img src="assets/Insta.gif" alt="Vídeo de apresentação do projeto">
+<br>
+<br>
+
+## Link para o Twitter:
+
+<img src="assets/Twitter.gif" alt="Vídeo de apresentação do projeto">
+<br>
+<br>
+
+## Link para o Youtube:
+
+<img src="assets/Youtube.gif" alt="Vídeo de apresentação do projeto">
